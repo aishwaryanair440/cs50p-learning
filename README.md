@@ -21,27 +21,25 @@ This repo focuses on **learning, practice, notes, and reflections**, not just wr
 - 📈 **Consistent Progress**  
   Small, regular commits to build discipline and understanding.
 
----
+## 📁 Repository Structure
 
-## 🗂️ Repository Structure
-cs50-python-learning/
+```text
+cs50p-learning/
 │
 ├── week0/
-│ ├── notes.md
-│ ├── practice.py
-│ └── reflection.md
+│   ├── notes.md
+│   ├── practice.py
+│   └── reflection.md
 │
 ├── week1/
 ├── week2/
 ├── week3/
 │
 ├── notes/
-│ └── python_basics.md
+│   └── python_basics.md
 │
 └── reflections/
-└── learning_journey.md
-
----
+    └── learning_journey.md
 
 ## 🎯 Goals
 
