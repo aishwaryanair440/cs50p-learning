@@ -2,6 +2,8 @@
 
 This repository documents my learning journey through **CS50’s Introduction to Programming with Python (CS50P)** by Harvard University.
 
+> Note: Some files are being set up. Content will be added gradually as I progress.
+
 I am new to coding, and my goal is to **learn Python fundamentals step by step while documenting my progress publicly**.  
 This repo focuses on **learning, practice, notes, and reflections**, not just writing code.
 
