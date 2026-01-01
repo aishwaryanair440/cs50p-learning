@@ -1,4 +1,4 @@
-# CS50 Python – Learning Journey 🐍
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2c9a1e62-cfcd-4e20-9f40-797d731c3eb2" /># CS50 Python – Learning Journey 🐍
 
 This repository documents my learning journey through **CS50’s Introduction to Programming with Python (CS50P)** by Harvard University.
 
@@ -23,7 +23,7 @@ This repo focuses on **learning, practice, notes, and reflections**, not just wr
 
 ## 📁 Repository Structure
 
-```text
+```
 cs50p-learning/
 │
 ├── week0/
@@ -40,6 +40,9 @@ cs50p-learning/
 │
 └── reflections/
     └── learning_journey.md
+```
+
+
 
 ## 🎯 Goals
 
